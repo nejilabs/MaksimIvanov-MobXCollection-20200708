@@ -18,6 +18,28 @@ Github: [satansdeer/mobx-react](https://github.com/satansdeer/mobx-react)
 
 ### Table of Contents
 
+- [2 - How To Use React With MobX And Hooks - Note Taking App Tutorial (Jun 9, 2020)](#2---how-to-use-react-with-mobx-and-hooks---note-taking-app-tutorial-jun-9-2020)
+    - [Table of Contents](#table-of-contents)
+  - [2.1 - Project Setup](#21---project-setup)
+  - [2.2 notesStore.js](#22-notesstorejs)
+  - [2.3 NotesContext.js](#23-notescontextjs)
+  - [2.4 Import NotesProvider in index.js](#24-import-notesprovider-in-indexjs)
+  - [2.5 - Clean Up](#25---clean-up)
+  - [2.6 - NewNoteForm.js](#26---newnoteformjs)
+  - [2.7 Connecting it now altogether](#27-connecting-it-now-altogether)
+- [Getting Started with Create React App](#getting-started-with-create-react-app)
+  - [Available Scripts](#available-scripts)
+    - [`yarn start`](#yarn-start)
+    - [`yarn test`](#yarn-test)
+    - [`yarn build`](#yarn-build)
+    - [`yarn eject`](#yarn-eject)
+  - [Learn More](#learn-more)
+    - [Code Splitting](#code-splitting)
+    - [Analyzing the Bundle Size](#analyzing-the-bundle-size)
+    - [Making a Progressive Web App](#making-a-progressive-web-app)
+    - [Advanced Configuration](#advanced-configuration)
+    - [Deployment](#deployment)
+    - [`yarn build` fails to minify](#yarn-build-fails-to-minify)
 
 
 
