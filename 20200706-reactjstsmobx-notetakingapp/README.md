@@ -2,7 +2,7 @@
 
 > *🧩  Maksim Ivanov - MobX (July 8, 2020)*
 
-> *Playlist Link: https://www.youtube.com/playlist?list=PLEhEHUEU3x5qz5OYDXamBmYnLvwboYTdH*
+> *Playlist Link: https://www.youtube.com/playlist?list=PLIvCYh5AD3Hzgj9YE4G2QH5dnKjNOJ_HC*
 
 ---
 # 3 - Fetch Data With Mobx Note Taking App Using React Mobx and Typescript (Jul 6, 2020)
