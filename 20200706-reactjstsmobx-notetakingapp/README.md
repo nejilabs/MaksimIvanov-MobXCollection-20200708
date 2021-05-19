@@ -12,6 +12,7 @@
 Link: [Fetch Data With Mobx Note Taking App Using React Mobx and Typescript)](https://www.youtube.com/watch?v=1fgRc1lYIEU&list=PLIvCYh5AD3Hzgj9YE4G2QH5dnKjNOJ_HC&index=2&ab_channel=MaksimIvanovMaksimIvanov)
 
 Github: [satansdeer/mobx-react-ts](https://github.com/satansdeer/mobx-react-ts)
+
 ---
 <img src="@/../README/preview.png" width="100%"  alt="Preview of the App"/>
 
